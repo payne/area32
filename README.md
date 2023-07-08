@@ -1,4 +1,3 @@
-
 # Clubs
 
 1. [00001454 HDR Omaha Toastmasters Club](http://dashboards.toastmasters.org/ClubReport.aspx?id=00001454)
@@ -23,7 +22,8 @@
    * Phone: "+1 402-574-3145",
    * Website: null
 1. [07914062 RAHK TALK Toastmasters Club](http://dashboards.toastmasters.org/ClubReport.aspx?id=07914062)
-
+   * Website: https://rahktalk.toastmastersclubs.org/meetourmembers.html
+   * President: [Lorraine Grote Johnson](https://www.linkedin.com/in/lorraine-grote-johnson-28ba8489/)
 
 # Misc Notes
 1. Other public toastmasters data here: https://github.com/payne/d24tm_data
